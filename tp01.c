@@ -4,7 +4,7 @@ int main (){
   int arr [n][n],i,j;
   int h = arr [i][j];
     printf("enter size of the square matrix :");
-      scanf("%d",&n);
+           scanf("%d",&n);
 
     printf("enter the elements of the matrix :\n");
        for(i=0 ;i<n ;i++){
